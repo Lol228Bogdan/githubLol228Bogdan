@@ -1,0 +1,84 @@
+<header>
+  <img id="img_h" src="https://pngimg.com/uploads/minecraft/minecraft_PNG37.png" alt="">
+</header>
+<header style= "height: 60px;">
+ <img id= "img_h" src="" alt="">
+  <p></p>
+</header>
+
+<main>
+  <div>
+    <div class="post">
+      <img height="210" src="https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/296/206/7.jpg" alt="Card image cap">
+      <div>
+        <h3>Новини майнкрафт</h3>
+        <p> Лесное подземелье
+В пещерах огромного размера можно найти лесное подземелье.
+В лесных подземельях нельзя поставить факела. А если поставить факел через команду, он поставится, но светить не будет.
+Деревья обычно в подземельях не выше 11 блоков.
+Садовая деревня
+Деревня, в которой живут только садовники и огородники.
+По середине садовой деревни есть шанс 50%, что в деревне будет огород 32 на 32.
+Также есть шанс того, в деревне будет большая пасека пчёл.
+Одинокая пасека пчёл
+Есть шанс появится в деревне.
+Обычно в пасеке не более 20 ульев
+Пасека может находиться не дальше 150 блоков от обычной или садовой деревни.
+Бастионы жителей
+Огромная структура, которая сделана только из берёзы и ели соответственно.
+Тот же Бастион пиглинов, только в поверхности и не развален.
+В Бастионе можно найти сокровища из изумрудных блоков.
+Также в Бастионе есть рынок вещей, куда могут приезжать даже садовники и огородники из садовой деревни.
+Бастионы пиглинов
+До 1.18 существовал разрушенная версия Бастионов пиглинов.
+Бастион пиглинов почти ничем не отличается от разрушенной версии, разве только, что он не разрушен.</p>
+        <a href="#">Read more</a>
+      </div>
+      
+  </div>
+    <h3>Коменти (3):</h3>
+    <div class="comment" id="sub-comment">
+      <h4 class="author">Андрей</h4>
+      <h5 class="date">at 19:35 07.09.2021</h5>
+      Обновленниэ просто топ играл почти 24/7 после обнови.ТОП.
+    </div>
+    <div class="comment" id="sub-comment" style="margin-left: 25px;">
+      <h4 class="author">Вова</h4>
+      <h5 class="date">at 19:35 12.09.2021</h5>
+     Давно хотел больше движухи в деревнях .
+    </div>
+    <div class="comment" id="sub-comment" style="margin-left: 25px;">
+      <h4 class="author">Олександр</h4>
+      <h5 class="date">at 19:56 13.09.2021</h5>
+     "Вова" полностю согласен.
+    </div>
+    
+    
+    
+    
+    
+    
+</main>
+<footer>
+  <div>
+    <div>
+      <div>
+        <img id= "img_h" src="https://image.flaticon.com/icons/png/512/477/477192.phg" alt="Logo">
+      </div>
+      <div class="footer-columns">
+        <div class="footer-column">
+          <h3>About</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Justo nec ultrices dui sapien eget mi proin.</p>
+        </div>
+        <div class="footer-column">
+          <h3>Contact me</h3>
+          <p> If you are interested in working with me or just want to say hello simply write on email.<br><strong>Email:
+            <a href="#">Белеберда.gmail.com</a></strong>
+          </p>
+</footer>
+<main>
+  
+</main>
+<footer>
+  
+</footer>
